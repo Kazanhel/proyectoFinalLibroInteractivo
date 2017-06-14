@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Mercenario</string>
+    <string name="nombre_prota">name</string>
+    <string name="habilidad_escogida">habilidad</string>
+
+    <string name="pagina00">
+        Estás en un lugar oscuro y silencioso. O quizá no es eso&#8230; No oyes nada, tampoco logras ver nada. Únicamente notas que tu brazo derecho se está moviendo. Parece que algo está tirando de él. \n
+        Logras abrir los ojos. Te encuentras en una habitación pequeña, no más grande que dos cuadras. Las paredes están ligeramente iluminadas por una especie de fuego que proviene del centro de la habitación. En una de las esquinas hay dos muchachos de unos ocho o diez años. Te miran atemorizados mientras gritan algo. ¿Pero qué? No puedes escucharlos. \n
+        Por sus rostros, deduces que están suplicando y señalando hacia tu cintura. La fuerza que antes tiraba de tu brazo de cada vez es menor. Bajas la mirada. \n
+        Observas que estás aguantando la cabeza de un hombre dentro de lo que parece ser una olla que está siendo calentada por un fuego intenso. El hombre hace esfuerzos inútiles por desprenderse de ti. Parece como si tú no estuvieras controlando tu cuerpo.
+    </string>
+    <string name="pagina00_decision1">\"¡Muere!\"</string>
+    <string name="pagina00_decision2">\"¡Callad de una vez!\"</string>
+    <string name="pagina00_decision3">No soltar</string>
+
+    <string name="pagina01">
+        Bienvenido, %1$s ¿Estás confundido? ¿No sabes dónde te encuentras? No tengas prisa, toma asiento y escucha, puesto que este relato te interesa. Es la historia de tu vida. No de tu vida entera, está claro. Pero sí de un momento muy importante de ésta. \n
+        ¿Qué dices? ¿No recuerdas quién eres? Sí, tú eras la persona que estaba epujando la cabeza de ese pobre hombre dentro de la cazuela. Veamos&#8230; ¿por dónde empiezo?
+    </string>
+    <string name="pagina01_decision1">\"¿Quién eres?\"</string>
+    <string name="pagina01_decision2">\"¿Qué es este lugar?\"</string>
+    <string name="pagina01_decision3">Permanecer callado</string>
+
+    <string name="pagina02">
+        Todo velve a oscurecer. \'¿Qué demonios acaba de suceder?\' te preguntas mientras abres los ojos de repente. \n
+        Estás sentado, en lo que parece ser una silla de madera. Quizá algo más pequeña de lo que tu cuerpo hubiese preferido. En la mesa que tienes en frente hay toda una variedad de manjares y bebidas. Entre pollos asados ya deshuesados, hasta una especie de pesacado que tus ojos nunca habían visto.
+        Observas que a los lados de la mesa hay una serie de individuos devorando la comida y bebiendo como si les fuera la vida en ello. Uno de estos personajes, al ver que por fin reaccionabas, te mira a los ojos, y poniendo su mano sobre tu hombro exclama: \n
+        \"¡Mirad quién está de vuelta, muchachos!\" \n
+        Nada más terminar la frase, todas las personas que había en la mesa se levantan, alzando sus copas y gritan al unísono: \n
+        \"¡Auuu!\" \n
+        Ese grito logra hacerte recordar quien eres. Eres %1$s, líder de una de las bandas de mercenarios más reconocida de la península de Galdun. El hombre que te había tocado era Khond, tu segundo al mando. Leal como un perro, solo que ligeramente más apestoso.
+        Todas esas caras mirándote al mismo tiempo, con las copas alzadas te hacen percatarte de que están esperando que tú también hagas lo mismo.
+    </string>
+    <string name="pagina02_decision1">Pedirle a Khond que venga contigo</string>
+    <string name="pagina02_decision2">Decir que no te encuentras bien</string>
+    <string name="pagina02_decision3">Levantar tu copa y brindar</string>
+
+    <string name="pagina03">
+        Al grito de \"¡AUU!\" alzas tu copa al aire y saludas a tus camaradas. Acto seguido, das un buen trago y el resto hacen lo propio.
+    </string>
+    <string name="pagina03_decision1">¡¡¡¡¡¡¡¡OPCIÓN ÚNICA SABIDURÍA!!!!!!!!</string>
+    <string name="pagina03_decision2">Disfrutar del festín</string>
+    <string name="pagina03_decision3">Pedirle a Khond que venga contigo</string>
+
+    <string name="pagina04">
+        \"Hmmm&#8230; Vamos, %1$s, ¿no irás a rechazar este convite?\" Pregunta Khond con una sonrisa de oreja a oreja mientras todos los demás toman un buen trago.
+    </string>
+    <string name="pagina04_decision1">¡¡¡¡¡¡¡¡OPCIÓN ÚNICA CARISMA!!!!!!!!</string>
+    <string name="pagina04_decision2">Insistir en que necesitas hablar con él</string>
+    <string name="pagina04_decision3">Pedirle a Khond que venga contigo</string>
+
+    <string name="pagina05">ENDING 1</string>
+
+    <string name="pagina06">ENDING 2</string>
+
+    <string name="pagina07">ENDING SABIDURIA</string>
+
+    <string name="pagina08">ENDING CARISMA</string>
+</resources>
